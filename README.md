@@ -3,6 +3,9 @@
 Uma pequena experiência de terror em primeira pessoa feita em Python com Ursina Engine.
 Esta versão usa uma cena 3D real: é possível olhar para cima, para baixo e para todos os lados com o mouse.
 
+> [!IMPORTANT]
+> **Aviso importante:** Este projeto foi desenvolvido inteiramente com o auxílio do **ChatGPT**. O código e as implementações fornecidas servem apenas como base conceitual e experimental, o que significa que **este projeto não foi testado e não rodou no meu PC**.
+
 ## Requisitos
 
 - Python 3.10 ou mais recente
